@@ -5,5 +5,5 @@
     "website": "https://ecocashew.com",
     "description": "CashewF is a social security token. A cryptographically secured representation of a real cashew processing Factory project to promote Fair Trade Cashews, Reuse of waste and 90% CO2 emission reduction by planting the factory near the Cashew Farmers. Supporting Global Sustainable Development Goals.",
     "totalSupply": 10000000,
-    "amounts": [1, 5, 10, 50, 100, 500, 1000, 5000, 10000, ]
+    "amounts": [1, 5, 10, 50, 100, 500, 1000, 5000, 10000 ]
 }
